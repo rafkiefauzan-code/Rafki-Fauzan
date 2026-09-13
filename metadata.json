@@ -1,0 +1,6 @@
+{
+  "name": "HISTO-PATH LMS",
+  "description": "Historical Thinking Path Integrated Learning Management System for Islamic Junior High School (MTs), focusing on the Da'wah of Prophet Muhammad SAW in Makkah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
